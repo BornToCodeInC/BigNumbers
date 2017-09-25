@@ -1,0 +1,6 @@
+C:\Users\st\Desktop\Qt\BigNumbers\BigNumbers\bin\Debug\BigNumbers.exe.config
+C:\Users\st\Desktop\Qt\BigNumbers\BigNumbers\bin\Debug\BigNumbers.exe
+C:\Users\st\Desktop\Qt\BigNumbers\BigNumbers\bin\Debug\BigNumbers.pdb
+C:\Users\st\Desktop\Qt\BigNumbers\BigNumbers\obj\Debug\BigNumbers.csprojResolveAssemblyReference.cache
+C:\Users\st\Desktop\Qt\BigNumbers\BigNumbers\obj\Debug\BigNumbers.exe
+C:\Users\st\Desktop\Qt\BigNumbers\BigNumbers\obj\Debug\BigNumbers.pdb
